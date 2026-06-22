@@ -9,7 +9,7 @@
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
   <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:tomiwarichard61@gmail.com"><img src="[https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)"></a>
+   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
