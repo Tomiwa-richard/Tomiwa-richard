@@ -15,11 +15,8 @@
 
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
-
-My focus is on mastering **Advanced SQL** to elevate my skills from an **intermediate** baseline to **expert** analytical execution.
-
-When I'm not working with data, I enjoy reading, traveling to discover new cultures, and exploring creative projects. I love the "aha!" moment when data reveals something new and useful.
+I’m a Lagos-based analyst with a business-first approach: 
+  I start with the decision a team needs to make, then build the evidence behind it. I bring careful data cleaning, structured analysis, and a habit of questioning whether a pattern is meaningful—not just visually convincing. My goal is to give stakeholders reliable numbers, clear explanations, and practical next steps they can trust.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
