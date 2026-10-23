@@ -1,4 +1,4 @@
-## Hi there, I'm Tomiwa 👋
+## Hi there, I'm Tomiwa 
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -18,8 +18,8 @@
 I’m a Lagos-based analyst with a business-first approach: 
   I start with the decision a team needs to make, then build the evidence behind it. I bring careful data cleaning, structured analysis, and a habit of questioning whether a pattern is meaningful—not just visually convincing. My goal is to give stakeholders reliable numbers, clear explanations, and practical next steps they can trust.
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
+### [🏆 Check Out My Full Portfolio Website](https://tomiwa-portfolio.work-wall.workers.dev/)
+      https://tomiwa-portfolio.work-wall.workers.dev/
 ## 🔭 What I'm Currently Working On 
 
 - **Project A:** Marketing Optimization & Campaign Effectiveness Analysis in Python. 
