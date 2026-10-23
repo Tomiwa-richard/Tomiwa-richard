@@ -1,49 +1,62 @@
-## Hi there, I'm Tomiwa 
+# Hi, I'm Tomiwa
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Storytelling];" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;Clear+Data+Storytelling" alt="Data Analyst | Business Intelligence" />
 </div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/tomiwa-adesugba-57b916420"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:tomiwarichard61@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
+  <a href="https://tomiwa-portfolio.work-wall.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-View-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
+---
 
+## About Me
 
-## 🚀 About Me 
-I’m a Lagos-based analyst with a business-first approach: 
-  I start with the decision a team needs to make, then build the evidence behind it. I bring careful data cleaning, structured analysis, and a habit of questioning whether a pattern is meaningful—not just visually convincing. My goal is to give stakeholders reliable numbers, clear explanations, and practical next steps they can trust.
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://tomiwa-portfolio.work-wall.workers.dev/)
-      https://tomiwa-portfolio.work-wall.workers.dev/
-## 🔭 What I'm Currently Working On 
+I am a Lagos-based data analyst with a business-first approach. I start with the decision a team needs to make, then build the evidence behind it.
 
-- **Project A:** Marketing Optimization & Campaign Effectiveness Analysis in Python. 
-- **Project B:**  Creating an interactive marketing dashboard in Power BI.
+My work combines careful data cleaning, structured analysis, and a habit of testing whether a pattern is statistically meaningful rather than merely visually convincing. The goal is always the same: reliable numbers, clear explanations, and practical next steps stakeholders can act on.
 
-## 🌱 Currently Learning 
+## Featured Projects
 
-- Currently deep-diving into advanced SQL concepts (window functions, CTEs, and query optimization) to build more efficient data pipelines.
+| Project | Description | Tools |
+| --- | --- | --- |
+| [Marketing Campaign Analysis](https://github.com/Tomiwa-richard/marketing-campaign-analysis) | Campaign effectiveness and customer segmentation analysis. | Python |
+| [HR Attrition: SQL Analysis](https://github.com/Tomiwa-richard/Hr-attrition-sql-analysis) | A data-driven MySQL investigation into employee turnover patterns, built to isolate retention risks for executive HR stakeholders. | MySQL |
+| [HR Attrition: Python Analysis](https://github.com/Tomiwa-richard/Hr-attrition-python-analysis) | Statistical testing and visualization (t-tests, chi-square, correlation) extending the SQL analysis for HR stakeholders. | Python, Pandas, SciPy, Seaborn |
+| [Olist E-commerce Analysis](https://github.com/Tomiwa-richard/olist-ecommerce-analysis) | Analysis of 100,000+ Brazilian e-commerce orders (2016–2018): revenue trends, delivery performance, customer satisfaction, and product insights. | Python, Excel, Power BI |
 
-## 🛠️ Technical Skillset
+## Currently Working On
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+- **Marketing optimization and campaign effectiveness analysis** in Python.
+- **Interactive marketing dashboard** in Power BI.
 
-#### Data Analysis & Visualization
+## Currently Learning
+
+- Advanced SQL: query optimization and building efficient data pipelines.
+- Power BI: DAX and measures.
+
+## Technical Skills
+
+**Data Analysis and Visualization**
+
 <p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
 </p>
 
-#### Programming & Automation
+**Programming and Automation**
+
 <p>
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
 </p>
 
+---
+
+## Get in Touch
+
+Open to data analytics opportunities and collaboration. Reach me on [LinkedIn](https://linkedin.com/in/tomiwa-adesugba-57b916420) or at [tomiwarichard61@gmail.com](mailto:tomiwarichard61@gmail.com).
