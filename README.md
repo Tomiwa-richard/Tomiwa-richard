@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/tomiwa-adesugba-57b916420"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:tomiwarichard61@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail" alt="Email"></a>
   <a href="https://tomiwa-portfolio.work-wall.workers.dev/"><img src="https://img.shields.io/badge/Portfolio-View-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="https://tomiwa-insight-gallery.lovable.app/__l5e/assets-v1/d06bfd99-be86-4a81-a88a-d3762f6158bb/Tomiwa-Richard-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
+  <a href="https://github.com/Tomiwa-richard/Tomiwa-richard/raw/main/Tomiwa-Richard-CV.pdf"><img src="https://img.shields.io/badge/CV-Download-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"></a>
 </p>
 
 ---
@@ -60,4 +60,4 @@ My work combines careful data cleaning, structured analysis, and a habit of test
 
 ## Get in Touch
 
-Open to data analytics opportunities and collaboration. Reach me on [LinkedIn](https://linkedin.com/in/tomiwa-adesugba-57b916420) or at [tomiwarichard61@gmail.com](mailto:tomiwarichard61@gmail.com), or [download my CV](https://tomiwa-insight-gallery.lovable.app/__l5e/assets-v1/d06bfd99-be86-4a81-a88a-d3762f6158bb/Tomiwa-Richard-CV.pdf).
+Open to data analytics opportunities and collaboration. Reach me on [LinkedIn](https://linkedin.com/in/tomiwa-adesugba-57b916420) or at [tomiwarichard61@gmail.com](mailto:tomiwarichard61@gmail.com), or [download my CV](https://github.com/Tomiwa-richard/Tomiwa-richard/raw/main/Tomiwa-Richard-CV.pdf).
