@@ -19,11 +19,13 @@ I am a Lagos-based data analyst with a business-first approach. I start with the
 
 My work combines careful data cleaning, structured analysis, and a habit of testing whether a pattern is statistically meaningful rather than merely visually convincing. The goal is always the same: reliable numbers, clear explanations, and practical next steps stakeholders can act on.
 
+I use AI tools such as Claude to work faster on code, documentation and review, and I check every output against the data before it goes into my analysis.
+
 ## Featured Projects
 
 | Project | Description | Tools |
 | --- | --- | --- |
-| [Marketing Campaign Analysis](https://github.com/Tomiwa-richard/marketing-campaign-analysis) | Campaign effectiveness and customer segmentation analysis. | Python |
+| [Marketing Campaign Analysis](https://github.com/Tomiwa-richard/marketing-campaign-analysis) | Customer profiling and campaign performance analysis: what drives spending, which products and channels lead, and who responds to campaigns. | Python, Pandas, Seaborn |
 | [HR Attrition: SQL Analysis](https://github.com/Tomiwa-richard/Hr-attrition-sql-analysis) | A data-driven MySQL investigation into employee turnover patterns, built to isolate retention risks for executive HR stakeholders. | MySQL |
 | [HR Attrition: Python Analysis](https://github.com/Tomiwa-richard/Hr-attrition-python-analysis) | Statistical testing and visualization (t-tests, chi-square, correlation) extending the SQL analysis for HR stakeholders. | Python, Pandas, SciPy, Seaborn |
 | [Olist E-commerce Analysis](https://github.com/Tomiwa-richard/olist-ecommerce-analysis) | Analysis of 100,000+ Brazilian e-commerce orders (2016–2018): revenue trends, delivery performance, customer satisfaction, and product insights. | Python, Excel, Power BI |
@@ -37,6 +39,7 @@ My work combines careful data cleaning, structured analysis, and a habit of test
 
 - Advanced SQL: query optimization and building efficient data pipelines.
 - Power BI: DAX and measures.
+- Git: branching, commits and pull requests.
 
 ## Technical Skills
 
@@ -54,6 +57,12 @@ My work combines careful data cleaning, structured analysis, and a habit of test
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas">
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
+
+**AI-Assisted Workflow**
+
+<p>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white" alt="Claude">
 </p>
 
 ---
